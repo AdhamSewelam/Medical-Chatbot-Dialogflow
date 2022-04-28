@@ -1,0 +1,11 @@
+body {
+  background-color: aqua;
+}
+
+.chatbot {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  border-radius: 15px;
+  border: none;
+}
